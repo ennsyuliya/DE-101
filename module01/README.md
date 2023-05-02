@@ -12,8 +12,8 @@
 * Business Layer - слой для доступа к данным бизнес пользователей
 
 
+![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module01/arch_.png?raw=true)
 
-![Архитектура Аналитического Решения](/arch.png)
 
 ## Аналитика в Excel
 
