@@ -23,7 +23,7 @@
 * Построить примеры отчетов
 * Создать дашборд
 * И другая функциональность Excel на ваш выбор.
-![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module01/dashboard.png?raw=true)
+![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module01/Dashboard%201.png?raw=true)
     
 
 
