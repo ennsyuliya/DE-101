@@ -9,13 +9,22 @@
 
 
     --Sales and Profit 
-SELECT
+
+    SELECT
+
 	EXTRACT(YEAR FROM order_date) year_date,
+
 	EXTRACT(MONTH FROM order_date) month_date,
+
 	SUM(sales),
+
 	SUM(profit)
+
 FROM orders o 
-GROUP BY EXTRACT(YEAR FROM order_date), EXTRACT(MONTH FROM order_date)
+
+GROUP BY EXTRACT(YEAR FROM order_date), EXTRACT(MONTH FROM 
+order_date)
+
 ORDER BY year_date, month_date ;
 
 
