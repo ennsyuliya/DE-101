@@ -66,14 +66,14 @@
 
 ## Нарисовать модель данных
 1. Логическая модель данных
-![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/Физическая%20модель.png?raw=true)
+![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/Логическая.png?raw=true)
     
 
 
 
 2. Физическая модель
 
-![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/Логическая%20модель.png?raw=true)
+![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/Физическая.png?raw=true)
 
 
 
