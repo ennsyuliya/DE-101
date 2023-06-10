@@ -9,7 +9,7 @@
 ### 3. Создайте 3 таблицы и загрузите данные из Superstore Excel файл в вашу базу данных. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц. Вы можете использовать готовый пример sql файлов.
 
 Установила PostgreSQL. Затем DBeaver. Создала базу данных Postgres. 
-Создала таблицы Orders, Returns и People с помощью скрипта [create_tables.sql](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/create_tables.sql "more info"). C помощью функцию [Импорт данных](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/import_orders.png "more info") и в DBeaver импортировала данные в таблицы Orders, Returns файлы [orders.csv](https://docs.github.com/en/github/writing-on-github "more info") и [returns.csv](https://docs.github.com/en/github/writing-on-github "more info") Таблицу People запонила сразу, так как таблица маленькая и можно воспользоваться  скриптом с insert что выложили на курсе.
+Создала таблицы Orders, Returns и People с помощью скрипта [create_tables.sql](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/create_tables.sql "more info"). C помощью функцию [Импорт данных](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/import_orders.png "more info") и в DBeaver импортировала данные в таблицы Orders, Returns файлы [orders.csv](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/orders.csv "more info") и [returns.csv](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/returns.csv "more info") Таблицу People запонила сразу, так как таблица маленькая и можно воспользоваться  скриптом с insert что выложили на курсе.
 
 ### 4. Напишите запросы, чтобы ответить на вопросы из Модуля 01. Сохраните в вашем GitHub скрипт загрузки данных и создания таблиц.
 
@@ -82,7 +82,7 @@
 
 ![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/Физическая.png?raw=true)
 
-Создание и заполнение данными таблиц [DLL.sql](https://docs.github.com/en/github/writing-on-github "more info")
+Создание и заполнение данными таблиц [DLL.sql](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/DDL.sql "more info")
 
 
 
