@@ -1,6 +1,6 @@
 # Домашнее задание курс DE-101 (модуль 2)
 
-## Задачи 2.
+## Задачи
 
 ### 1. Вам необходимо установить Postgres базу данных к себе на компьютер. 
 
@@ -68,10 +68,10 @@
     GROUP BY segment , region 
     ORDER BY segment ; 
 
-## Задачи 2.2
 
 
-## Нарисовать модель данных
+
+## 5. Нарисовать модель данных
 1. Логическая модель данных
 ![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/Логическая.png?raw=true)
     
@@ -85,5 +85,7 @@
 Создание и заполнение данными таблиц [DLL.sql](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/DDL.sql "more info")
 
 
+## 6. Визуализация в облачном сервисе
 
-
+ В качестве сервиса визуализации данных использовала GOOGLE LOOKER STUDIO. Ранее не имея опыта работы с такими инструментами. Подключилась к облачной БД и создала [дашборд](https://lookerstudio.google.com/reporting/d1b9f6b6-8ff0-4d87-8133-627659efaecf/page/ZxyTD "more info").
+![alt text](https://github.com/ennsyuliya/DE-101/blob/hw/module%2002/Dashboard.png?raw=true)
